@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Step Counter</string>
+    <string name="maps_api_key" translatable="false">ApqK2OGZYlGM4Ha-YlKcW4-XVrDXzg5sMDduDFp_XKK7Xri-qQY7_J9T3mC-LD4h</string>
+    <string name="change_language_button_text">تغيير اللغة</string>
+    <string name="male_text">ذكر</string>
+    <string name="female_text">أنثى</string>
+    <string name="height_text">الطول</string>
+    <string name="weight_text">الوزن</string>
+    <string name="age_text">العمر</string>
+    <string name="calculate_bmi_button_text">احسب مؤشر كتلة الجسم الخاص بك</string>
+</resources>

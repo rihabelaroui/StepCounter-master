@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Step Counter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="maps_api_key" translatable="false">ApqK2OGZYlGM4Ha-YlKcW4-XVrDXzg5sMDduDFp_XKK7Xri-qQY7_J9T3mC-LD4h</string>
+    <string name="change_language_button_text">Change Language</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="height_text">Height</string>
+    <string name="weight_text">Weight</string>
+    <string name="age_text">Age</string>
+    <string name="calculate_bmi_button_text">Calculate your BMI</string>
+
+    //squat
+    <string name="squatIngredients">3 Series</string>
+    <string name="squatDesc">Stand with your feet shoulder-width apart
+\nLower your body as if you are sitting back into a chair,
+        keeping your chest up and your core engaged.
+\nLower yourself until your thighs are parallel to the ground.
+\nPush through your heels to return to the starting position.
+\nRepeat for the desired number of repetitions.</string>
+
+    //pushups
+    <string name="pushupsIngredients">3 Series</string>
+    <string name="pushupsDesc">Start in a plank position with your hands slightly wider than shoulder-width apart.
+\nLower your body until your chest nearly touches the ground, keeping your elbows close to your sides.
+\nPush through your palms to return to the starting position.
+\nRepeat for the desired number of repetitions.</string>
+
+    //abdo
+    <string name="abdoIngredients">3 Series </string>
+    <string name="abdoDesc">Lie on your back with your knees bent and feet flat on the floor.
+\nPlace your hands behind your head or crossed over your chest.
+\nEngage your core and lift your shoulders off the ground, keeping your lower back pressed into the floor.
+\nLower back down with control.
+\nRepeat for the desired number of repetitions.</string>
+
+    //burpees
+    <string name="burpeesIngredients">3 Series</string>
+    <string name="burpeesDesc">Start standing with your feet shoulder-width apart.
+\nLower into a squat position and place your hands on the ground.
+\nJump your feet back into a plank position.
+\nPerform a push-up.
+\nJump your feet back to the squat position.
+\nExplode up into a jump, reaching your arms overhead.
+\nLand softly and immediately lower back into the squat position to repeat.</string>
+
+    //jumping
+    <string name="jumpingIngredients">3 Series</string>
+    <string name="jumpingDesc">Stand with your feet hip-width apart.
+\nBend your knees and jump explosively into the air, reaching your arms overhead.
+\nLand softly, absorbing the impact through your legs.
+\nImmediately jump again, continuing the movement rhythmically.
+\nRepeat for the desired number of repetitions.</string>
+    <string name="title_activity_step_canvas_view">StepCanvasView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+
+</resources>

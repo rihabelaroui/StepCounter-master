@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Step Counter</string>
+    <string name="maps_api_key" translatable="false">ApqK2OGZYlGM4Ha-YlKcW4-XVrDXzg5sMDduDFp_XKK7Xri-qQY7_J9T3mC-LD4h</string>
+    <string name="change_language_button_text">Changer la langue</string>
+    <string name="male_text">Homme</string>
+    <string name="female_text">Femme</string>
+    <string name="height_text">Taille</string>
+    <string name="weight_text">Poids</string>
+    <string name="age_text">Âge</string>
+    <string name="calculate_bmi_button_text">Calculer votre IMC</string>
+</resources>

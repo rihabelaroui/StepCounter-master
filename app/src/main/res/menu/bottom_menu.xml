@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/baseline_dashboard_24"/>
+
+    <item
+        android:id="@+id/timer"
+        android:title="Timer"
+        android:icon="@drawable/baseline_timer_24"/>
+    <item
+        android:id="@+id/measures"
+        android:title="Measures"
+        android:icon="@drawable/baseline_whatshot_24"/>
+    <item
+        android:id="@+id/leaderboard"
+        android:title="Leaderboard"
+        android:icon="@drawable/baseline_emoji_events_24"/>
+</menu>

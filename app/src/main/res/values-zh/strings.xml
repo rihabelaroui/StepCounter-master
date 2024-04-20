@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Step Counter</string>
+    <string name="maps_api_key" translatable="false">ApqK2OGZYlGM4Ha-YlKcW4-XVrDXzg5sMDduDFp_XKK7Xri-qQY7_J9T3mC-LD4h</string>
+    <string name="change_language_button_text">更改语言</string>
+    <string name="male_text">男性</string>
+    <string name="female_text">女性</string>
+    <string name="height_text">身高</string>
+    <string name="weight_text">体重</string>
+    <string name="age_text">年龄</string>
+    <string name="calculate_bmi_button_text">计算您的BMI</string>
+</resources>
